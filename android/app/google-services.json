@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1046931396974",
+    "project_id": "getfirebasecli-fbe83",
+    "storage_bucket": "getfirebasecli-fbe83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046931396974:android:653aabe810322d8b4e897f",
+        "android_client_info": {
+          "package_name": "com.getfirebasecli.getfirebasecli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046931396974-i37dd8nd15pf18fn0id324rnetp5d6jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsiEcjpT-NeFa0yRxVS5jiXsl_4aqdrkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046931396974-i37dd8nd15pf18fn0id324rnetp5d6jj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046931396974-1lpa55kj1j61lqfp59k9mq6i6ubn2ti4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cxom.getfiorebasecli.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
